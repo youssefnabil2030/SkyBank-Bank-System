@@ -1,6 +1,6 @@
 # SkyBank-Bank-System
 
-Here’s a suggested `README.md` for your banking system project:
+
 
 ```markdown
 # Banking System Project
